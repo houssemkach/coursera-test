@@ -174,7 +174,7 @@ border-bottom-style: outset;
     margin-right: 5px;
   }
 #collapsable-nav ul { /* Collapsed nav menu text */
-    background-color: white;
+    background-color: green;
 	width : 108.1%;
 	margin-left: -15px;
 	margin-top: -1px;
